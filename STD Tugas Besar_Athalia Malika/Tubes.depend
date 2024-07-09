@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1672602328 source:c:\d\kuliah\sem 3\strukdat\tubes\main.cpp
+	"ugd.h"
+
+1672601676 c:\d\kuliah\sem 3\strukdat\tubes\ugd.h
+	<bits/stdc++.h>
+	<cstdlib>
+	<iomanip>
+
+1672602328 source:c:\d\kuliah\sem 3\strukdat\tubes\ugd.cpp
+	"ugd.h"
+
+1672602328 source:c:\d\kuliah\sem 3\strukdat\std tugas besar_kelompok 14\ugd.cpp
+	"ugd.h"
+
+1672601676 c:\d\kuliah\sem 3\strukdat\std tugas besar_kelompok 14\ugd.h
+	<bits/stdc++.h>
+	<cstdlib>
+	<iomanip>
+
+1674048121 source:c:\d\kuliah\sem 3\strukdat\std tugas besar_kelompok 14\main.cpp
+	"ugd.h"
+
